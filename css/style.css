@@ -1,0 +1,17 @@
+h2{
+	text-align: center;
+}
+.wrapper{
+	width:50%;
+	margin:0 auto;
+}
+label{
+	font-size:20px;
+}
+.first_name, .last_name, .email, .password{
+	width:90%;
+	height:18px;
+	padding:8px;
+	font-size: 16px;
+}
+
